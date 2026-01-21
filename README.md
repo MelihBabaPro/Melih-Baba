@@ -9,7 +9,6 @@
 - **SERKAN GÖTEL**
 - **DOLMA PARMAK**
 - **AMCI ÇAYLAK**
-- **FEROŞ**
 - **ARABACI MAMİ**
 - **KADO**
 - **HASAN BOKA BASAN**
