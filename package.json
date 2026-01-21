@@ -23,9 +23,9 @@
   "license": "SEE LICENSE IN LICENSE",
   "repository": {
     "type": "git",
-    "url": "https://github.com/XeldarAlz/Vortex-SMS-Bomber.git"
+    "url": "https://github.com/MelihBabaPro/Melih-baba.git"
   },
-  "homepage": "https://github.com/XeldarAlz/Vortex-SMS-Bomber",
+  "homepage": "https://github.com/MelihBabaPro/Melih-baba",
   "dependencies": {
     "@faker-js/faker": "^8.4.1",
     "axios": "^1.7.7",
