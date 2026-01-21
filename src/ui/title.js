@@ -4,7 +4,7 @@ function console_title(x) {
     const version = packageJson.version;
     const author = packageJson.author;
     const homepage = packageJson.homepage;
-    const title = `MelihSms v${version} - Sunar ${author} | ${homepage}`;
+    const title = ` v${version} - ${author} | ${homepage}`;
     
     if (process.platform == 'win32') {
         process.title = title;
