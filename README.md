@@ -1,19 +1,20 @@
-Burdan Allahsız Melih Baba Tarafından Mağdur Kardeşlerime Selam Olsun!
+# 📌 Duyuru
 
-Çaylak
+**Buradan Allahsız Melih Baba tarafından mağdur edilen kardeşlerime selam olsun!**
 
-Samed
+---
 
-Serkan
+## 👥 Mağdur Listesi
 
-Kübra
+- **SERKAN GÖTEL**
+- **AMCI ÇAYLAK**
+- **FEROŞ**
+- **ARABACI MAMİ**
+- **KADO**
+- **HASAN BOKA BASAN**
 
-Ferhat
+---
 
-Muhammet
+## ⚠️ Not
 
-Kado
-
-Hasan Boka Basan
-
-Üzgünüm...
+**Üzgünüm...**
